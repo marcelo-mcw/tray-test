@@ -6,7 +6,7 @@
 
 => Para banco de dados foi utilizado o sistema da migrations do Laravel, para executar execute o comando: php artisan migrate.
 
-=> Para banco de dados foi utilizado o sistema da migrations do Laravel, para executar execute o comando: php artisan migrate.
+=> Para banco de dados foi utilizado o sistema da migrations do Laravel com um banco de dados MySQL, para criar as tabelas execute o comando: php artisan migrate. Antes disso configure os dados de acesso ao banco de dados no arquivo ".env" na raiz do projeto.
 
 => Para o envio diário dos e-mails, foi utilizado o Task Scheduling do Laravel.
 
