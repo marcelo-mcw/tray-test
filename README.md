@@ -6,6 +6,8 @@
 
 => Para banco de dados foi utilizado o sistema da migrations do Laravel, para executar execute o comando: php artisan migrate.
 
+=> Para banco de dados foi utilizado o sistema da migrations do Laravel, para executar execute o comando: php artisan migrate.
+
 => Para o envio diário dos e-mails, foi utilizado o Task Scheduling do Laravel.
 
 #Site (front-end)
